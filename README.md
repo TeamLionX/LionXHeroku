@@ -11,7 +11,7 @@ A simple Telegram userbot based on Telethon .
 [![PR Closed](https://img.shields.io/github/issues-pr-closed/TeamLionX/LionX?&style=flat-square&logo=github)](https://github.com/TeamLionX/LionX/pulls?q=is:closed)
 [![GitHub contributors](https://img.shields.io/github/contributors/TeamLionX/LionX?&style=flat-square&logo=github)](https://GitHub.com/TeamLionX/LionX/graphs/contributors/)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/TeamLionX/LionX?&style=flat-square&logo=github)](https://github.com/TeamLionX/LionX/graphs/commit-activity)
-[![GitHub forks](https://img.shields.io/github/forks/TeamLionX/LionX?&style=flat-square&logo=github)](https://github.com/TeamLionX/LionX/fork)
+[![GitHub forks](https://img.shields.io/github/forks/TeamLionX/Heroku?&style=flat-square&logo=github)](https://github.com/TeamLionX/Heroku/fork)
 [![GitHub stars](https://img.shields.io/github/stars/TeamLionX/LionX?&style=flat-square&logo=github)](https://github.com/TeamLionX/LionX/stargazers)
 
 
