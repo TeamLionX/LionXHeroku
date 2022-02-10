@@ -72,3 +72,4 @@ wget
 git+https://github.com/goldsmith/Wikipedia
 youtube-search-python
 youtube_dl
+#Jaa na Chakke 🌚🌚 
