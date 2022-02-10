@@ -10,3 +10,6 @@ system("git clone https://github.com/TeamLionX/LionX && cd LionX && python3 -m u
 # if got error
 print(" Sʀʏʏ ᴜɴғᴏʀᴛᴜɴᴀᴛᴇʟʏ ʏᴏᴜ ʜᴀᴠᴇ ɢᴏᴛ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴀᴛ @LionXsupport")
 # Script written for stop heroku suspension
+
+
+#Don't Try To Steal Without Credit @Simpleboy786
