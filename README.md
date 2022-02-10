@@ -21,7 +21,7 @@ A simple Telegram userbot based on Telethon .
 ## Fork Deploy
 
 ### Heroku Deploy
-  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+ - [![Deploy Fork](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 -----
